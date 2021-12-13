@@ -11285,4 +11285,8 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+  
+  .navbar-title {
+	  margin-left: 15px;
+  } 
 }
