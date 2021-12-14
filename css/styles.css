@@ -13,7 +13,12 @@
  #navbar-title {
 	 margin-left: 15px;
  } 
- 
+ #index-title {
+	 margin-bottom: 75px;
+ }
+ #flag {
+	margin-top: 25px;
+ }
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
