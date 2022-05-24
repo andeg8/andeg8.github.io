@@ -93,6 +93,17 @@
 	
 	
 }
+
+.concept-piclink {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.concept-title-2 {
+  text-align: center;
+}
+
 .concept-section {
   	
 }
@@ -100,6 +111,7 @@
 .concept-title {
   text-align: center;	
 }
+
 .concept-pic {
   display: block;
   margin-left: auto;
